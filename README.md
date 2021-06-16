@@ -1,24 +1,24 @@
-## Oi aqui é Jéssika! Seja bem vindo! :relaxed:
+## Hi here is Jessika! Welcome! :relaxed:
 
-Estou agora fazendo uma transição de carreira para a área da tecnologia, e me interessei muito pela area de garantia da qualidade. Legal né?
+I've just made a transition career to technology, and I became very interested in Quality Assurance (QA). Cool isn't?
 
-#### :mag_right:As tecnologias que estudo no momento são:
+#### :mag_right:The technologies I am currently studying:
 
-Postman | Jira | Trello | Testlink | JMeter | Selenium
+Spring Boot | JUnit | Cucumber | SQL | Postman | Jira | Trello | Testlink | JMeter | Selenium | 
 
-#### :mag_right:As linguagens que me aventurei:
+#### :mag_right:Languages I've been diving deep:
 
 Java | JavaScript
 
-#### :mag_right:Os idiomas aqui: 
+#### :mag_right:Spoken languages here: 
 
-**Inglês:** conversação | **Espanhol:** basico | **Alemão:** A1 
+**English:** advanced | **Spanish:** basic | **German:** A1 
 
-#### :mag_right:Como a vida não é só trabalho, conheça um pouquinho de mim: 
+#### :mag_right:Get to know a little more about me: 
 
-:heavy_check_mark: tenho um espírito aventureiro :heavy_check_mark: gosto de estar em comunidade colaborando para o bem comum :heavy_check_mark: conheci 19 países! :heavy_check_mark: toco violão há dois anos :heavy_check_mark: faço natação :heavy_check_mark: ando de bike
+:heavy_check_mark: I have an adventurous spirit :heavy_check_mark: I like being in a community collaborating for the common good :heavy_check_mark: I've visited 19 countries :heavy_check_mark: play guitar for two years :heavy_check_mark: swimming :heavy_check_mark: ride a bike
 
-#### :mag_right:Minhas redes sociais: [Linkedin](https://www.linkedin.com/in/jessika-gomes/) | [Instagram](https://www.instagram.com/jessika__gomes/)
+#### :mag_right:My social networks: [Linkedin](https://www.linkedin.com/in/jessika-gomes/) | [Instagram](https://www.instagram.com/jessika__gomes/)
 
 
 
