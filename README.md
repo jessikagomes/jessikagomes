@@ -1,18 +1,18 @@
 ## Hi here is Jessika! Welcome! :relaxed:
 
-I've just made a transition career to technology, and I became very interested in Quality Assurance (QA). Cool isn't?
+I'm a Quality Assurance (QA) who has experience working with software products like APIs, Webpages and Mobile apps. Cool isn't?
 
-#### :mag_right:The technologies I am currently studying:
+#### :mag_right:The frameworks I went through:
 
-Spring Boot | JUnit | Cucumber | SQL | Postman | Jira | Trello | Testlink | JMeter | Selenium | 
+Cypress | Playwright | Charles Proxy | JUnit | Cucumber | SQL | Postman | Jira | Redmine | Testlink | JMeter | Selenium | 
 
 #### :mag_right:Languages I've been diving deep:
 
-Java | JavaScript
+Java | JavaScript | Phyton | TypeScript |
 
 #### :mag_right:Spoken languages here: 
 
-**English:** advanced | **Spanish:** basic | **German:** A1 
+**Portuguese:** native | **English:** advanced | **Spanish:** basic | **German:** A1 
 
 #### :mag_right:Get to know a little more about me: 
 
